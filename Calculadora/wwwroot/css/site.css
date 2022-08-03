@@ -19,20 +19,16 @@
         justify-content: center;
     }
 
-.button{
-  background-color: #0088ff;
-  color: white;
-  font-family: 'Roboto Slab', serif;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 40px;
-  display: flex;
-  justify-content: center;
+footer{
+    background-color: #0088ff;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 40px;
+    display: flex;
+    justify-content: center;
 }
 
-
-.calculator__keys {
-    display: grid;
-}
