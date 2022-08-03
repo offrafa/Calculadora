@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    background-color: #0088ff;
+    display: flex;
+    width: auto;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+    font-family: 'Roboto Slab', serif;
+    align-items: center;
+}
+
+    .top i {
+        padding: 5px;
+        justify-content: center;
+    }
+
+.button{
+  background-color: #0088ff;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+
+.calculator__keys {
+    display: grid;
+}
