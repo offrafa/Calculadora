@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xrsKNVJABdI/B/4NaQ1zEgYuZRRF7TI9X7njH14lOGw=",
+  "Hash": "+yWd5HxUv4lXLtFA8985Fr/FBCd3UQXLuB110fqkY7s=",
   "Source": "Calculadora",
   "BasePath": "_content/Calculadora",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Calculadora\\wwwroot",
       "Source": "Calculadora",
-      "ContentRoot": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\wwwroot\\",
       "BasePath": "_content/Calculadora",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Calculadora.styles.css",
+      "Identity": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Calculadora.styles.css",
       "SourceId": "Calculadora",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Calculadora",
       "RelativePath": "Calculadora.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Calculadora.styles.css"
+      "OriginalItemSpec": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Calculadora.styles.css"
     },
     {
-      "Identity": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Calculadora.bundle.scp.css",
+      "Identity": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Calculadora.bundle.scp.css",
       "SourceId": "Calculadora",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Calculadora",
       "RelativePath": "Calculadora.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Calculadora.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Calculadora.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\wwwroot\\css\\site.css",
       "SourceId": "Calculadora",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\wwwroot\\",
       "BasePath": "_content/Calculadora",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\wwwroot\\favicon.ico",
       "SourceId": "Calculadora",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\wwwroot\\",
       "BasePath": "_content/Calculadora",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\wwwroot\\js\\site.js",
       "SourceId": "Calculadora",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HF-NTB-04\\Desktop\\Calculadora\\Calculadora\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\wwwroot\\",
       "BasePath": "_content/Calculadora",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

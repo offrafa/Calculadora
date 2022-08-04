@@ -50,3 +50,32 @@ C:\Users\HF-NTB-04\Desktop\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calcu
 C:\Users\HF-NTB-04\Desktop\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
 C:\Users\HF-NTB-04\Desktop\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
 C:\Users\HF-NTB-04\Desktop\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.staticwebassets.runtime.json
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.RazorAssemblyInfo.cache
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.RazorAssemblyInfo.cs
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\scopedcss\bundle\Calculadora.styles.css
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\scopedcss\projectbundle\Calculadora.bundle.scp.css
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\Área de Trabalho\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CopyComplete

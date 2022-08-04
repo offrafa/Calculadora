@@ -1,4 +1,4 @@
-﻿var input = document.querySelector("#display");
+﻿ var input = document.querySelector("#display");
 var operador = "";
 var parar = false;
 
@@ -6,7 +6,7 @@ function limpar() {
     input.value = "";
     document.querySelector("#history").innerHTML = "";
     operador = ""
-}
+} 
 
 function add_numero(string) {
     if (!parar) {
@@ -52,7 +52,16 @@ function total() {
 
         }
 
-        document.querySelector("#history").innerHTML = input.value;
+        var resultados = document.querySelector("#display").innerHTML = input.value;
+        var valores = document.querySelector("#history").innerHTML = input.value + " = " ;  
+
+        
+        
+        var ul = document.getElementById("itens");
+        var li = document.createElement("li");
+        var valor = document.querySelector("#display").innerHTML = input.value; 
+        li.appendChild(document.createTextNode(valor + " = " ));
+        ul.appendChild(li);
 
         switch (operador) {
             case "+":
@@ -70,7 +79,12 @@ function total() {
             case "/":
                 input.value = numeros[0] / numeros[1];
                 break;
+            case "%":
+                input.value = numeros[0] % numeros[1];
+                break;
         }
+        console.log(valor)
+        console.log(valores)
 
         parar = true;
     }
