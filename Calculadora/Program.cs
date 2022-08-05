@@ -1,7 +1,13 @@
+using Calculadora.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<Contexto>(options =>
+    options.UseSqlServer("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Calculadora;Data Source=LAPTOP-2R8BRF4I\\SQLEXPRESS"));
 
 var app = builder.Build();
 
