@@ -1,4 +1,4 @@
-* {
+﻿* {
     margin: 0;
 }
 
@@ -18,12 +18,12 @@
         justify-content: center;
     }
 
-footer{
+footer {
     background-color: #0088ff;
     color: white;
     font-family: 'Roboto Slab', serif;
     position: absolute;
-    bottom: 0;
+    bottom: -111px;
     width: 100%;
     white-space: nowrap;
     line-height: 40px;
@@ -89,6 +89,7 @@ body {
     margin-bottom: 10px;
     padding: initial;
 }
+
 .btn {
     display: flex;
     /* grid-template-columns: repeat(4, 25%); */
@@ -134,8 +135,8 @@ body {
     color: #f2f2f2;
     background-color: #D22B2B;
 }
-    
-.historico{
+
+.historico {
     box-shadow: 0 1px 1px 1px black;
     height: 441px;
     width: 292px;
@@ -143,10 +144,24 @@ body {
     right: 450px;
     top: 109px;
 }
-    .historico h1{
+
+    .historico h1 {
         padding: 10px;
         display: flex;
         justify-content: center;
         font-family: "Roboto", sans-serif;
-
     }
+
+.titulo{
+    display:flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.lista {
+    display: block;
+    position: absolute;
+    padding: 0px;
+    left: 500px;
+    top: 615px;
+}
