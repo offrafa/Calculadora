@@ -55,7 +55,7 @@ function total() {
         document.querySelector("#display").innerHTML = input.value;
         document.querySelector("#history").innerHTML = input.value + " = ";
 
-
+        
 
 
         switch (operador) {

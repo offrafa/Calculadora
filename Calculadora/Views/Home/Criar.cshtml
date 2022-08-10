@@ -1,18 +1,16 @@
-﻿@model CalculadoraModel 
+﻿@model CalculadoraModel
 
 
     <div class="calculator">
 
         <div class="display">
 
+
               <h2 id="history"></h2>
               <input id="display" placeholder="0" disabled>
-        <form asp-controller="Home" asp-action="Criar" method="post">
-
-              <input type="hidden" name="" id="inputOrigem" asp-for="Resultado">
-        </form>
-
+              <input type="hidden" name="" id="inputOrigem">
         </div>
+
         <div class="row">
             <button class="button" onclick="add_numero(7)">7</button>
             <button class="button" onclick="add_numero(8)">8</button>
@@ -43,15 +41,30 @@
         </div>
         <div class="btn">
             <button class="button purple-text" onclick="limpar()">C</button>
-            <button class="button purple" onclick="total()" asp-action="Criar">=</button>
+            <button class="button purple" onclick="total()">=</button>
 
         </div>
 
     </div>
     <div class="historico">
         <h1>Historico</h1>
-        <ul id="itens">
-        </ul>
+        
+
+        <!--
+            @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Resultado)
+            </td>
+            
+        </tr>
+}
+        -->
+
+
     </div>
             <h1 class="titulo">Escopo Projeto</h1>
 
@@ -75,13 +88,6 @@
         </ul>
     </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
-    $('#display').keyup(function(){
-    $('#inputOrigem').val($(this).val());
-
-});
-
-    console.log("ljl")
-
+ 
 </script>
