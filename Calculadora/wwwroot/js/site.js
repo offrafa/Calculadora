@@ -53,7 +53,9 @@ function total() {
         }
 
         document.querySelector("#display").innerHTML = input.value;
-        document.querySelector("#history").innerHTML = input.value + " = ";
+        let resultado = document.querySelector("#history").innerHTML = input.value + " = ";
+
+        console.log(resultado)
 
         
 
@@ -75,7 +77,7 @@ function total() {
                 input.value = numeros[0] / numeros[1];
                 break;
             case "%":
-                input.value = numeros[0] % numeros[1];
+                input.value = (numeros[0] / numeros[1] (numeros[1] * numeros[0]));
                 break;
         }
 

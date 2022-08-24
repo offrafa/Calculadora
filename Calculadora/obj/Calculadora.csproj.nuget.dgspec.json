@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\HF-NTB-04\\Downloads\\Calculadora-20220824T182215Z-001\\Calculadora\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\HF-NTB-04\\Downloads\\Calculadora-20220824T182215Z-001\\Calculadora\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\HF-NTB-04\\Downloads\\Calculadora-20220824T182215Z-001\\Calculadora\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\Área de Trabalho\\Calculadora\\Calculadora\\obj\\",
+        "projectPath": "C:\\Users\\HF-NTB-04\\Downloads\\Calculadora-20220824T182215Z-001\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "packagesPath": "C:\\Users\\HF-NTB-04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HF-NTB-04\\Downloads\\Calculadora-20220824T182215Z-001\\Calculadora\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HF-NTB-04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +75,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
